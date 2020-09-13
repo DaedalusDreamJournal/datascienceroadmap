@@ -1,6 +1,10 @@
 # 66daysofdata
 repository of links, video and other stuff related to the #66daysofdatachallenge
 
+  # Freecodecamp : A very useful site containing a LOT of courses, and on many subjects, a lot of them useful for Machine Learning!
+  - https://www.freecodecamp.org/
+
+
   # Useful Kaggle links and notebooks:
   - https://www.kaggle.com/
 
