@@ -107,7 +107,7 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   - https://mml-book.github.io/
     
   # Data Wrangling:
-- https://cdn.discordapp.com/attachments/749419101134258278/751165827549495296/Data_Wrangling_python_and_pandas.pdf
+  - https://cdn.discordapp.com/attachments/749419101134258278/751165827549495296/Data_Wrangling_python_and_pandas.pdf
   
   # Methods and tips for success:
   - https://blog.zenhub.com/why-rubber-duck-debugging-is-the-best-way-to-debug-your-code/
