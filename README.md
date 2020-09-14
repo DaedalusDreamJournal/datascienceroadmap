@@ -115,6 +115,8 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   - https://leanpub.com/openintro-statistics
 
   - https://mml-book.github.io/
+  
+  - https://greenteapress.com/thinkstats/
     
   # Data Wrangling:
   - https://cdn.discordapp.com/attachments/749419101134258278/751165827549495296/Data_Wrangling_python_and_pandas.pdf
@@ -180,3 +182,5 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   - https://shivansivakumaran.com/for-optometrists/how-writing-benefits-you-and-how-to-get-started/
 
   - https://www.notion.so/
+  
+  - https://www.linkedin.com/posts/ashley-eastman-71536236_completion-certificate-for-python-for-everybody-activity-6711336658337456129-p5Kx
