@@ -1,2 +1,2 @@
 # 66daysofdata
-repository of links, video and other stuff related to the #66daysofdatachallenge
+This is a reposittory which contains a structured list of resources which includes online MOOC's and free ebooks to assit beginners who have just started with Data Science
