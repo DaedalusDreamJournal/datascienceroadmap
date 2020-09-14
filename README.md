@@ -53,6 +53,8 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
 
   - https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
   
+  - https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva
+  
   # Transfer learning
   - https://medium.com/abraia/first-steps-with-transfer-learning-for-custom-image-classification-with-keras-b941601fcad5
   
@@ -95,6 +97,8 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   - https://cdn.discordapp.com/attachments/749419101134258278/751145887513706502/Scikit-Learn_Python_Cheat_Sheet.pdf
 
   - https://www.kaggle.com/python10pm/sklearn-50-best-tips-and-tricks
+  
+  - https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr
 
   # Seaborn:
   - https://cdn.discordapp.com/attachments/749419101134258278/751214641715347526/Seaborn_Python_Cheat_Sheet.pdf
@@ -138,6 +142,8 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   - https://www.reddit.com/r/datascience/comments/innazn/what_we_look_for_in_hiring
 
   - https://www.kdnuggets.com/2020/08/top-10-lists-data-science.html
+  
+  - https://www.oreilly.com/library/view/python-for-data/9781491957653/
 
 
   # Ken Jee:
