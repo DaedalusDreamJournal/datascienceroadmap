@@ -92,6 +92,8 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   
   # Matplotlib:
   - https://cdn.discordapp.com/attachments/749419101134258278/751144122001129663/Matplotlib_Python_Cheat_Sheet.pdf
+  
+  - https://www.kaggle.com/raenish/cheatsheet-100-plotly-part-1-basic
 
   # Scikit-learn:
   - https://cdn.discordapp.com/attachments/749419101134258278/751145887513706502/Scikit-Learn_Python_Cheat_Sheet.pdf
