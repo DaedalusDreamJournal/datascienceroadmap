@@ -75,3 +75,44 @@ This is a repository which contains a structured list of resources which include
     <td>Amazing resource to practice Pandas</td>
   </tr>
 </table>
+
+## 3. Mathematics For Data Science
+<table>
+    <tr>
+    <td>Index</td>
+    <td>Course Name</td>
+    <td>Link</td>
+    <td>Description</td>
+  </tr>
+    <tr>
+    <td>1.</td>
+    <td>Overview</td>
+    <td><a href="https://www.youtube.com/watch?v=zSwM5uVeylU">Link to the Video</a></td>
+    <td>Overview of Why Maths is needed in Data Science</td>
+    </tr>
+    <tr>
+    <td>2.</td>
+    <td>Linear Algebra for Machine Learning</td>
+    <td><a href="https://www.youtube.com/watch?v=tVQZvJwi-ec">Link to the Video</a></td>
+    <td>Complete Linear Algeebra Course</td>
+    </tr>
+  <tr>
+    <td>3.</td>
+    <td>Statistics and Probability for Data Science</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa">Link to the Playlist</a></td>
+    <td>Amazing resource to learn Probability and Statistics!</td>
+    </tr>
+  <tr>
+    <td>4.</td>
+    <td>Advanced Statistical topics[Optional--->this resource is mainly for doubt clearing]</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">Link to the Playlist</a></td>
+    <td>Learn Statistics in a fun way</td>
+    </tr>
+    <tr>
+    <td>5.</td>
+    <td>Maths for Machine Learning[HIGHLY OPTIONAL]</td>
+    <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
+    <td>Specializtion to learn Maths for ML</td>
+    </tr>
+  
+</table>
