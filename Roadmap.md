@@ -151,5 +151,9 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
     <td>Specializtion to learn Maths for ML</td>
     </tr>
-  
+     <tr>
+    <td>Maths for Machine Learning Ebook[Reference book]</td>
+    <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
+    <td>Use this as a Reference book </td>
+    </tr>
 </table>
