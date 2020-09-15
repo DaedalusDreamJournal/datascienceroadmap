@@ -162,9 +162,9 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
   # PODCASTS:
   - Lex Fridman Podcast  > https://lexfridman.com/podcast/
 
-  -  Practical AI > https://changelog.com/practicalai
+  - Practical AI > https://changelog.com/practicalai
 
-  -  twiml > This week in machine learning  > https://twimlai.com/
+  - twiml > This week in machine learning  > https://twimlai.com/
 
   - Data Driven > https://datadriven.tv/episodes/
 
