@@ -164,13 +164,15 @@ repository of links, video and other stuff related to the #66daysofdatachallenge
 
   -  Practical AI > https://changelog.com/practicalai
 
-  - twiml > This week in machine learning  > https://twimlai.com/
+  -  twiml > This week in machine learning  > https://twimlai.com/
 
   - Data Driven > https://datadriven.tv/episodes/
 
   - SuperDataScience  > https://www.superdatascience.com/podcast
 
   - Machine Learning - Software Engineering Daily > https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
+  
+  - Towards Data Science > https://towardsdatascience.com/podcast/home
 
   # OTHERS
   - https://www.datacamp.com/community/data-science-cheatsheets
