@@ -24,9 +24,9 @@ This is a repository which contains a structured list of resources which include
     <td>This is by far the best course to learn Complete Python 3 concepts!</td></tr>
     <tr>
   <td>3.</td>
-    <td>Python Programmer Career Track[OPTIONAL]</td>
-    <td><a href="https://www.datacamp.com/tracks/python-programmer">Link to the Course</a></td>
-    <td>This track from DataCamp gives the student a complete overview of Python Concepts fro Data Science</td>
+    <td>Kaggle MicroCourse</td>
+    <td><a href="https://www.kaggle.com/learn/python">Link to the Course</a></td>
+    <td>This is a great course to test your skills!!Look out for the Blackjack problem 😁</td>
   </tr>
 </table>
 
@@ -41,20 +41,20 @@ This is a repository which contains a structured list of resources which include
   </tr>
   <tr>
     <td>1.</td>
-    <td>Numpy</td>
-    <td><a href="https://www.youtube.com/watch?v=GB9ByFAIAH4">Link to the Video</a></td>
-    <td>This is a complete course covering Numpy library by Keith Galli</td>
+    <td>Jose Portialla's Python For Data Science Bootcamp</td>
+    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Link to the Playlist</a></td>
+    <td>This is a complete course covering all the important data science libraries</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Scipy Library[OPTIONAL]</td>
-    <td><a href="https://www.tutorialspoint.com/scipy/index.htm">Link to the Documentation</a></td>
-    <td>This is a complete course covering Scipy library by Tutorialspoint</td>
-    </tr>
-    <tr>
+    <td>Kaggle Data Viz Course</td>
+    <td><a href="https://www.kaggle.com/learn/data-visualization">Link to the Course</a></td>
+    <td>This is a complete course covering all the important visualization libraries with challenging exercises</td>
+  </tr>
+  <tr>
     <td>3.</td>
-    <td>Pandas Library</td>
-    <td><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Link to the Playlist</a></td>
-    <td>This is a complete playlist covering Pandas for Data Analysis</td>
+    <td>Kaggle Pandas Course</td>
+    <td><a href="https://www.kaggle.com/learn/pandas">Link to the Course</a></td>
+    <td>This is a course covering Pandas library with challenging exercises</td>
   </tr>
 </table>
