@@ -109,8 +109,7 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>Link</td>
     <td>Description</td>
   </tr>
- 
-    <tr>
+  <tr>
     <td>1.</td>
     <td>Overview</td>
     <td><a href="https://www.youtube.com/watch?v=zSwM5uVeylU">Link to the Video</a></td>
