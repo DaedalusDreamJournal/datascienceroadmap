@@ -140,13 +140,13 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>Amazing resource to learn Probability from Khan Academy!</td>
     </tr>
   <tr>
-    <td>4.</td>
+    <td>5.</td>
     <td>Advanced Statistical topics[Optional--->this resource is mainly for doubt clearing]</td>
     <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">Link to the Playlist</a></td>
     <td>Learn Statistics in a fun way</td>
     </tr>
     <tr>
-    <td>5.</td>
+    <td>6.</td>
     <td>Maths for Machine Learning[HIGHLY OPTIONAL]</td>
     <td><a href="https://www.coursera.org/search?query=math%20for%20machine%20learning&">Link to the Course</a></td>
     <td>Specializtion to learn Maths for ML</td>
