@@ -28,6 +28,11 @@ This is a repository which contains a structured list of resources which include
     <td><a href="https://www.kaggle.com/learn/python">Link to the Course</a></td>
     <td>This is a great course to test your skills!!Look out for the Blackjack problem 😁</td>
   </tr>
+  <td>4.</td>
+    <td>Python Exercises</td>
+    <td><a href="https://www.w3resource.com/python-exercises/">Link to the Exercises</a></td>
+    <td>This is a great problem set for Python</td>
+  </tr>
 </table>
 
 ## 2. Python Libraries
@@ -56,5 +61,17 @@ This is a repository which contains a structured list of resources which include
     <td>Kaggle Pandas Course</td>
     <td><a href="https://www.kaggle.com/learn/pandas">Link to the Course</a></td>
     <td>This is a course covering Pandas library with challenging exercises</td>
+  </tr>
+   <tr>
+    <td>5.</td>
+    <td>W3 Resources Numpy Exercises</td>
+    <td><a href="https://www.w3resource.com/python-exercises/numpy/index.php">Link to the Exercises</a></td>
+    <td>Amazing resource to practice Numpy functions</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>W3 Resources Pandas Exercises</td>
+    <td><a href="https://www.w3resource.com/python-exercises/pandas/index.php">Link to the Exercises</a></td>
+    <td>Amazing resource to practice Pandas functions</td>
   </tr>
 </table>
