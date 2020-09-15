@@ -3,8 +3,30 @@
 ## About
 This is a repository which contains a structured list of resources which includes online MOOC's and free ebooks to assist beginners who have just started with Data Science.
 <br><br>
-## 1.Python
 
+## Intro To Programming[OPTIONAL]
+<table>
+  <tr>
+    <td>Index</td>
+    <td>Course Name</td>
+    <td>Link</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Introducion to Programming</td>
+    <td><a href="https://www.youtube.com/watch?v=zOjov-2OZ0E">Link to the Course</a></td>
+    <td>A brief overview of programminig(no prior programming language experience needed)</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Introducion to Data Science</td>
+    <td><a href="https://www.youtube.com/watch?v=N6BghzuFLIg">Link to the Course</a></td>
+    <td>This is a great mini course to get a birds eye view of every toipc of Data Science</td>
+  </tr>
+</table>
+
+## 1.Python
 <table>
   <tr>
     <td>Index</td>
