@@ -109,6 +109,7 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>Link</td>
     <td>Description</td>
   </tr>
+ 
     <tr>
     <td>1.</td>
     <td>Overview</td>
@@ -116,16 +117,28 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>Overview of Why Maths is needed in Data Science</td>
     </tr>
     <tr>
+    <td>1.</td>
+    <td>Khan Academy-Linear Algebra</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Link to the Playlist</a></td>
+    <td>Great playlist by Khan Academy to learn linear algebra</td>
+    </tr>
+    <tr>
     <td>2.</td>
-    <td>Linear Algebra for Machine Learning</td>
+    <td>Linear Algebra for Machine Learning[OPTIONAL]</td>
     <td><a href="https://www.youtube.com/watch?v=tVQZvJwi-ec">Link to the Video</a></td>
-    <td>Complete Linear Algeebra Course</td>
+    <td>Complete Linear Algebra Course</td>
+    </tr>
+    <tr>
+    <td>3.</td>
+    <td>Statistics-Khan Academy</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Link to the Video</a></td>
+    <td>Complete Statistics Course</td>
     </tr>
   <tr>
-    <td>3.</td>
-    <td>Statistics and Probability for Data Science</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa">Link to the Playlist</a></td>
-    <td>Amazing resource to learn Probability and Statistics!</td>
+    <td>4.</td>
+    <td>Probability by Khan Academy</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Link to the Playlist</a></td>
+    <td>Amazing resource to learn Probability from Khan Academy!</td>
     </tr>
   <tr>
     <td>4.</td>
