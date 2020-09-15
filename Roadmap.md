@@ -141,7 +141,7 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     </tr>
   <tr>
     <td>6.</td>
-    <td>Advanced Statistical topics[Optional--->this resource is mainly for doubt clearing]</td>
+    <td>Learn Statistics Visually </td>
     <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">Link to the Playlist</a></td>
     <td>Learn Statistics in a fun way</td>
     </tr>
