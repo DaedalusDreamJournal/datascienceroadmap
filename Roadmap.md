@@ -72,7 +72,7 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
   <tr>
     <td>1.</td>
     <td>Jose Portialla's Python For Data Science Bootcamp</td>
-    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Link to the Playlist</a></td>
+    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Link to the Course</a></td>
     <td>This is a complete course covering all the important data science libraries</td>
   </tr>
   <tr>
