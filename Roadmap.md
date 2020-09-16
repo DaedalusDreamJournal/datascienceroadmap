@@ -101,7 +101,39 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
   </tr>
 </table>
 
-## 3. Mathematics For Data Science
+
+## 3.SQL
+<table>
+  <tr>
+    <td>Index</td>
+    <td>Course Name</td>
+    <td>Link</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>MySQL Tutorial for Beginners [Full Course][HIGHLY RECOMMENDED]</td>
+    <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&feature=youtu.be">Link to the Video</a></td>
+    <td>!TODO!</td>
+  </tr>
+  <td>2.</td>
+    <td>SQL For Data Science Tutorial | Learn SQL Database For Data Science</td>
+    <td><a href="https://www.youtube.com/watch?v=sTiWTx0ifaM&feature=youtu.be">Link to the Video</a></td>
+    <td>!TODO!</td></tr>
+    <tr>
+  <td>3.</td>
+    <td>Database Normalization in SQL - 1NF, 2NF, 3NF, 4NF - SQL</td>
+    <td><a href="https://www.youtube.com/watch?v=l5DCnCzDb8g">Link to the Course</a></td>
+    <td>!TODO!</td>
+  </tr>
+  <td>4.</td>
+    <td>Logical Database Design and E-R Diagrams</td>
+    <td><a href="https://www.youtube.com/watch?v=ZBgXb66Ckz0">Link to the Exercises</a></td>
+    <td>!TODO!</td>
+  </tr>  
+</table>
+
+## 4. Mathematics For Data Science
 <table>
     <tr>
     <td>Index</td>
@@ -157,4 +189,10 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
     <td>Use this as a Reference book </td>
     </tr>
+    <td>9.</td>
+    <td>Choosing which statistical test to use - statistics help.</td>
+    <td><a href="https://www.youtube.com/watch?v=rulIUAN0U3w">Link to the Exercises</a></td>
+    <td>!TODO!</td>
+    </tr>
+  
 </table>
