@@ -113,7 +113,7 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
   <tr>
     <td>1.</td>
     <td>MySQL Tutorial for Beginners [Full Course][HIGHLY RECOMMENDED]</td>
-    <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&feature=youtu.be</a></td>
+    <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&feature=youtu.be">Link to the Video</a></td>
     <td>!TODO!</td>
   </tr>
   <td>2.</td>
