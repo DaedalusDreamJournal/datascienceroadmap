@@ -1,4 +1,4 @@
-# <center>#66daysofdata</center>
+# #66daysofdata
 
 ## Objective
 
@@ -14,4 +14,6 @@ Special thanks to [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2
   |---README.md
   |---Roadmap.md
   |---podcasts.md
+  |---links.md
+  |---useful-links-for-machine-learning-66daysofdata.ipynb
 ```
