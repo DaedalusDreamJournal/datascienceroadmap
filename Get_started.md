@@ -79,6 +79,4 @@ Go to the github page of the fork repository and open a pull request.
 
 ![pull-request](assets/pull-request-image.png)
 
-Wait until the repository administrator merges your pull request.
 
-Thank you.
