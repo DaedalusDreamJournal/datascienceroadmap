@@ -6,11 +6,14 @@ This repository is maintained by members of the #66daysofdata community to organ
 
 Special thanks to [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) for starting this initiative and community of people who share the goal of pursuing data science.
 
+To get started as a contributor or learner [Click Here](https://github.com/DaedalusDreamJournal/datascienceroadmap/blob/master/Get_started.md)
+
 ## Current Directory
 
 ```
   datascienceroadmap/
   | 
+  |---CODE_OF_CONDUCT.md
   |---Get_started.md
   |---README.md
   |---Roadmap.md
