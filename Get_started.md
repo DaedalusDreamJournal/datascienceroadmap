@@ -4,10 +4,9 @@
 
 You can contribute by suggesting new topics, look for possible improvements, provide suggestions or by adding resources.
 
-## Rules for this community:
+## Code of Conduct:
 
-To be Determined.
-
+To know about the code of conduct for this community visit this link: <a href = "https://github.com/DaedalusDreamJournal/datascienceroadmap/blob/master/CODE_OF_CONDUCT.md">Code Of Conduct</a>
 ## Reason why this repo exist and a guide to get started
 
 Check out [Ken's Jee video on youtube](https://www.youtube.com/watch?v=uXLnbdHMf8w&ab_channel=KenJee) of why he is started **#66daysofdata**
