@@ -11,9 +11,11 @@ Special thanks to [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2
 ```
   datascienceroadmap/
   | 
+  |---Get_started.md
   |---README.md
   |---Roadmap.md
   |---podcasts.md
   |---links.md
+  |---podcasts.md
   |---useful-links-for-machine-learning-66daysofdata.ipynb
 ```
