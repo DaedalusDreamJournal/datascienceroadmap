@@ -11,6 +11,7 @@ Special thanks to [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2
 ```
   datascienceroadmap/
   | 
+  |---CODE_OF_CONDUCT.md
   |---Get_started.md
   |---README.md
   |---Roadmap.md
