@@ -114,22 +114,22 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>1.</td>
     <td>MySQL Tutorial for Beginners [Full Course][HIGHLY RECOMMENDED]</td>
     <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&feature=youtu.be">Link to the Video</a></td>
-    <td>!TODO!</td>
+    <td>Excellent for all beginner. Very well structure and with both theory AND exercises for practise. Also, seems pretty complete. -> +3 hours! :)</td>
   </tr>
   <td>2.</td>
     <td>SQL For Data Science Tutorial | Learn SQL Database For Data Science</td>
     <td><a href="https://www.youtube.com/watch?v=sTiWTx0ifaM&feature=youtu.be">Link to the Video</a></td>
-    <td>!TODO!</td></tr>
+    <td>This video can be used to get a general overview of how useful SQL can be, both in general and for ML. +/- 30 minutes</td></tr>
     <tr>
   <td>3.</td>
     <td>Database Normalization in SQL - 1NF, 2NF, 3NF, 4NF - SQL</td>
     <td><a href="https://www.youtube.com/watch?v=l5DCnCzDb8g">Link to the Course</a></td>
-    <td>!TODO!</td>
+    <td>This video is very specific and deals with Normalization in databases. +/- 4à minutes</td>
   </tr>
   <td>4.</td>
     <td>Logical Database Design and E-R Diagrams</td>
-    <td><a href="https://www.youtube.com/watch?v=ZBgXb66Ckz0">Link to the Exercises</a></td>
-    <td>!TODO!</td>
+    <td><a href="https://www.youtube.com/watch?v=ZBgXb66Ckz0">Link to the Video</a></td>
+    <td>!Another specialized video, this time dealing with the concepts of design and diagrams. (seems closer to real business use) +/- 30 minutes</td>
   </tr>  
 </table>
 
