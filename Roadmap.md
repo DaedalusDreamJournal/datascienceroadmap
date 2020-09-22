@@ -1,13 +1,18 @@
 # Roadmap to learn Data Science
 
 ## About
+
 This is a repository which contains a structured list of resources which includes online MOOC's and free ebooks to assist beginners who have just started with Data Science.
 Please feel free to contribute to this repository and leave a ⭐ if you found it helpful.
 <br><br>
+
 ## Disclaimer
+
 It is not necessary to complete all the courses mentioned below. If you feel that you are already proficient with some sections feel free to move to the next section.
 <br><br>
-## Intro To Programming[OPTIONAL]
+
+## Intro To Programming [OPTIONAL]
+
 <table>
   <tr>
     <td>Index</td>
@@ -29,7 +34,8 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
   </tr>
 </table>
 
-## 1.Python
+## 1. Python
+
 <table>
   <tr>
     <td>Index</td>
@@ -70,39 +76,56 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>Description</td>
   </tr>
   <tr>
+  <tr>
     <td>1.</td>
-    <td>Jose Portialla's Python For Data Science Bootcamp</td>
-    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Link to the Course</a></td>
-    <td>This is a complete course covering all the important data science libraries</td>
+    <td>Numpy</td>
+    <td><a href="https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org">Link to the Course</a></td>
+    <td>A course covering the basics of the Numpy Library.  Numpy is the fundamental package for scientific computing with python.</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Kaggle Data Viz Course</td>
-    <td><a href="https://www.kaggle.com/learn/data-visualization">Link to the Course</a></td>
-    <td>This is a complete course covering all the important visualization libraries with challenging exercises</td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Kaggle Pandas Course</td>
-    <td><a href="https://www.kaggle.com/learn/pandas">Link to the Course</a></td>
-    <td>This is a course covering Pandas library with challenging exercises</td>
-  </tr>
-   <tr>
-    <td>4.</td>
     <td>W3 Resources Numpy Exercises</td>
     <td><a href="https://www.w3resource.com/python-exercises/numpy/index.php">Link to the Exercises</a></td>
     <td>Amazing resource to practice Numpy functions</td>
   </tr>
   <tr>
+    <td>3.</td>
+    <td>Pandas</td>
+    <td><a href="https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli">Link to the Course</a></td>
+    <td>This is a video course covering the basics of the Pandas Library.  Pandas is the fundamental package for data analysis in python.</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Kaggle Pandas Course</td>
+    <td><a href="https://www.kaggle.com/learn/pandas">Link to the Course</a></td>
+    <td>This is a course covering Pandas library with challenging exercises</td>
+  </tr>
+
+   <tr>
     <td>5.</td>
     <td>W3 Resources Pandas Exercises</td>
     <td><a href="https://www.w3resource.com/python-exercises/pandas/index.php">Link to the Exercises</a></td>
     <td>Amazing resource to practice Pandas</td>
   </tr>
+
+   <tr>
+    <td>6.</td>
+    <td>Matplotlib Course</td>
+    <td><a href="https://www.youtube.com/watch?v=0P7QnIQDBJY&ab_channel=KeithGalli">Link to the Course</a></td>
+    <td>A tutorial that focuses on using matplotlib to visualize data. Matplotlib is python library for creating static visualizations. </td>
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td>Kaggle Data Viz Course</td>
+    <td><a href="https://www.kaggle.com/learn/data-visualization">Link to the Course</a></td>
+    <td>This is a complete course covering all the important visualization libraries with challenging exercises</td>
+  </tr>
+
 </table>
 
+## 3. SQL
 
-## 3.SQL
 <table>
   <tr>
     <td>Index</td>
@@ -134,8 +157,9 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
 </table>
 
 ## 4. Mathematics For Data Science
+
 <table>
-    <tr>
+  <tr>
     <td>Index</td>
     <td>Course Name</td>
     <td>Link</td>
@@ -187,12 +211,28 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>8.</td>
     <td>Maths for Machine Learning Ebook[Reference book]</td>
     <td><a href="https://mml-book.github.io/book/mml-book.pdf">Link to the Book PDF</a></td>
-    <td>Use this as a Reference book </td>
+    <td>Use this as a Reference book</td>
     </tr>
     <td>9.</td>
     <td>Choosing which statistical test to use - statistics help.</td>
     <td><a href="https://www.youtube.com/watch?v=rulIUAN0U3w">Link to the Exercises</a></td>
-    <td>!TODO!</td>
-    </tr>
-  
+    <td>A tutorial explaining seven statistical test and how to use them.</td>
+  </tr>
+</table>
+
+## 5. Data Science Bootcamps
+
+<table>
+  <tr>
+    <td>Index</td>
+    <td>Course Name</td>
+    <td>Link</td>
+    <td>Description</td>
+  </tr>
+ <tr>
+    <td>1.</td>
+    <td>Complete Python Bootcamp for Data Science</td>
+    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Link to the Course</a></td>
+    <td>A complete course covering all the important data science libraries</td>
+  </tr>
 </table>
