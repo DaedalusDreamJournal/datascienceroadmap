@@ -11,7 +11,11 @@ Please feel free to contribute to this repository and leave a ⭐ if you found i
 It is not necessary to complete all the courses mentioned below. If you feel that you are already proficient with some sections feel free to move to the next section.
 <br><br>
 
-## Intro To Programming [OPTIONAL]
+## 1.0 Foundations
+
+<br>
+
+### Intro To Programming [OPTIONAL]
 
 <table>
   <tr>
@@ -33,8 +37,9 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>This is a great mini course to get a birds eye view of every toipc of Data Science</td>
   </tr>
 </table>
+<br><br>
 
-## 1. Python
+### Python Programming
 
 <table>
   <tr>
@@ -65,8 +70,9 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>This is a great problem set for Python</td>
   </tr>
 </table>
+<br><br>
 
-## 2. Python Libraries
+### Python Libraries
 
 <table>
     <tr>
@@ -123,40 +129,9 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
   </tr>
 
 </table>
+<br><br>
 
-## 3. SQL
-
-<table>
-  <tr>
-    <td>Index</td>
-    <td>Course Name</td>
-    <td>Link</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>MySQL Tutorial for Beginners [Full Course][HIGHLY RECOMMENDED]</td>
-    <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&feature=youtu.be">Link to the Video</a></td>
-    <td>Excellent for all beginners. Very well structure and with both theory AND exercises for practise. Also, seems pretty complete. -> +3 hours! :)</td>
-  </tr>
-  <td>2.</td>
-    <td>SQL For Data Science Tutorial | Learn SQL Database For Data Science</td>
-    <td><a href="https://www.youtube.com/watch?v=sTiWTx0ifaM&feature=youtu.be">Link to the Video</a></td>
-    <td>This video can be used to get a general overview of how useful SQL can be, both in general and for ML. +/- 30 minutes</td></tr>
-    <tr>
-  <td>3.</td>
-    <td>Database Normalization in SQL - 1NF, 2NF, 3NF, 4NF - SQL</td>
-    <td><a href="https://www.youtube.com/watch?v=l5DCnCzDb8g">Link to the Course</a></td>
-    <td>This video is very specific and deals with Normalization in databases. +/- 4à minutes</td>
-  </tr>
-  <td>4.</td>
-    <td>Logical Database Design and E-R Diagrams</td>
-    <td><a href="https://www.youtube.com/watch?v=ZBgXb66Ckz0">Link to the Video</a></td>
-    <td>!Another specialized video, this time dealing with the concepts of design and diagrams. (seems closer to real business use) +/- 30 minutes</td>
-  </tr>  
-</table>
-
-## 4. Mathematics For Data Science
+### Mathematical Foundations
 
 <table>
   <tr>
@@ -219,8 +194,56 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>A tutorial explaining seven statistical test and how to use them.</td>
   </tr>
 </table>
+<br><br>
 
-## 5. Data Science Bootcamps
+## 2.0 Data Analyst (To Be Completed)
+
+<br>
+
+### SQL
+
+<table>
+  <tr>
+    <td>Index</td>
+    <td>Course Name</td>
+    <td>Link</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>MySQL Tutorial for Beginners [Full Course][HIGHLY RECOMMENDED]</td>
+    <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&feature=youtu.be">Link to the Video</a></td>
+    <td>Excellent for all beginners. Very well structure and with both theory AND exercises for practise. Also, seems pretty complete. -> +3 hours! :)</td>
+  </tr>
+  <td>2.</td>
+    <td>SQL For Data Science Tutorial | Learn SQL Database For Data Science</td>
+    <td><a href="https://www.youtube.com/watch?v=sTiWTx0ifaM&feature=youtu.be">Link to the Video</a></td>
+    <td>This video can be used to get a general overview of how useful SQL can be, both in general and for ML. +/- 30 minutes</td></tr>
+    <tr>
+  <td>3.</td>
+    <td>Database Normalization in SQL - 1NF, 2NF, 3NF, 4NF - SQL</td>
+    <td><a href="https://www.youtube.com/watch?v=l5DCnCzDb8g">Link to the Course</a></td>
+    <td>This video is very specific and deals with Normalization in databases. +/- 4à minutes</td>
+  </tr>
+  <td>4.</td>
+    <td>Logical Database Design and E-R Diagrams</td>
+    <td><a href="https://www.youtube.com/watch?v=ZBgXb66Ckz0">Link to the Video</a></td>
+    <td>!Another specialized video, this time dealing with the concepts of design and diagrams. (seems closer to real business use) +/- 30 minutes</td>
+  </tr>  
+</table>
+<br><br>
+
+### TABLEAU
+
+- To be Completed.
+
+<br><br>
+
+## 3.0 Data Science (To Be Completed)
+
+<br>
+
+### Courses?
 
 <table>
   <tr>
@@ -236,3 +259,44 @@ It is not necessary to complete all the courses mentioned below. If you feel tha
     <td>A complete course covering all the important data science libraries</td>
   </tr>
 </table>
+<br><br>
+
+## 4.0 Machine Learning (To Be Completed)
+
+<br>
+
+### Supervised Algorithms
+
+<br>
+
+### Unsupervised Algorithms
+
+<br>
+
+### Cluster Algorithms
+
+<br><br>
+
+## 5.0 Deep Learning (To Be Completed)
+
+<br>
+
+### Artificial Neural Networks
+
+<br>
+
+### Reinforcement Learning
+
+<br>
+
+### Computer Vision
+
+<br>
+
+<br><br>
+
+## 6.0 Data Engineering (To Be Completed)
+
+### Docker
+
+<br><br>
