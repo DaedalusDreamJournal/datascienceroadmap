@@ -1,4 +1,6 @@
-![Modern Data Engineer Roadmap 2020](img/title.png)
+# Data Engineer Roadmap by [Alexandra Abbas](https://github.com/alexandraabbas)
+
+![Modern Data Engineer Roadmap 2020](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap/master/img/title.png)
 
 > Roadmap to becoming a data engineer in 2020
 
@@ -16,11 +18,11 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ***
 
-![Data Engineer Roadmap](img/roadmap.png)
+![Data Engineer Roadmap](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap/master/img/roadmap.png)
 
 ## Nice to have 😎
 
-![Data Engineer Roadmap Extras](img/extras.png)
+![Data Engineer Roadmap Extras](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap/master/img/extras.png)
 
 ## Contributions are welcome 💜
 
