@@ -7,6 +7,7 @@ You can contribute by suggesting new topics, look for possible improvements, pro
 ## Code of Conduct:
 
 To know about the code of conduct for this community visit this link: <a href = "https://github.com/DaedalusDreamJournal/datascienceroadmap/blob/master/CODE_OF_CONDUCT.md">Code Of Conduct</a>
+
 ## Reason why this repo exist and a guide to get started
 
 Check out [Ken's Jee video on youtube](https://www.youtube.com/watch?v=uXLnbdHMf8w&ab_channel=KenJee) of why he is started **#66daysofdata**
@@ -28,7 +29,7 @@ On this github page click on the button "**FORK**" ![fork](assets/fork-image.png
 For example, run the command below on your computer:
 
 ```bat
-git clone https://github.com/<your-github-username>/datascienceroadmap.git
+$ git clone https://github.com/<your-github-username>/datascienceroadmap.git
 ```
 
 Note: Make sure you replace <your-github-username> with your actual username.
@@ -38,7 +39,7 @@ Note: Make sure you replace <your-github-username> with your actual username.
 For example:
 
 ```bat
-cd datascienceroadmap
+$ cd datascienceroadmap
 ```
 
 ## 5. Sync your fork
@@ -50,7 +51,7 @@ Please, read [How to keep your fork in sync.](https://www.freecodecamp.org/news/
 For instance, write the following on your bash/terminal or cmd line:
 
 ```bat
-git remote add upstream https://github.com/DaedalusDreamJournal/datascienceroadmap.git
+$ git remote add upstream https://github.com/DaedalusDreamJournal/datascienceroadmap.git
 ```
 
 ## 6. Make changes
@@ -58,14 +59,14 @@ git remote add upstream https://github.com/DaedalusDreamJournal/datascienceroadm
 On your local computer with the text editor of your choice open the directory and add the necessary changes. You are going to need to use the git commands:
 
 ```bat
-git add "the-file-your-modifying"
-git commit -m "please-add-a-message"
+$ git add "the-file-your-modifying"
+$ git commit -m "please-add-a-message"
 ```
 
 ## 7. Push changes to your local repository
 
 ```bat
-git push origin master
+$ git push origin master
 ```
 
 At this point it will probably ask you for your git username and password to push the repo.
@@ -78,4 +79,37 @@ Go to the github page of the fork repository and open a pull request.
 
 ![pull-request](assets/pull-request-image.png)
 
+<br><br>
 
+## How to synchronize and merge your fork repository
+
+Go to the directory of the fork project and follow these steps:
+
+## 1. Make sure you have the upstream repository
+
+```bat
+$ git remote -v
+> origin	https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+> origin	https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+> upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
+> upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+
+```
+
+## 2. Fetch Upstream repository
+
+```bat
+$ git fetch upstream
+```
+
+The above command will get all the respective commits from the upstream repository.
+
+## 3. Merge Upstream repository
+
+You should be on your local master branch and then finally you can merge and synchronize your fork.
+
+```bat
+$ git merge upstream/master
+```
+
+For further information you can read [How to sync your github fork.](https://nearsoft.com/blog/how-to-synchronize-your-github-fork/)
