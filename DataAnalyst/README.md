@@ -62,8 +62,53 @@ These are the courses to follow if you want to become a Data Analyst.
         Though data structures are not part of the Data Analyst learning path,it is often asked in coding interviews
     </td>
     <td>
-        <a href = 'https://www.udemy.com/course/complete-python-bootcamp/'>Course</a>
+        <a href = 'https://www.udemy.com/course/complete-python-bootcamp/'>Playlist</a>
     </td>
 </tr>
 </table>
 
+### 3.Statistics
+<table>
+<tr>
+    <td>        
+        1.
+    </td>
+    <td>
+    Complete Statistics Course      
+    </td>
+    <td>
+        Video which covers most of the Statistical concepts for Data Analysis
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/watch?v=xxpc-HPKN28'>Video</a>
+    </td>
+</tr>
+<tr>
+    <td>        
+        2.
+    </td>
+    <td>
+          Probability Concepts  
+    </td>
+    <td>
+        Playlist covering Probability concepts
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/playlist?list=PLKhIyg7HglikW9E83pxIv2VFZVa-DxlKB'>Playlist</a>
+    </td>
+</tr>
+<tr>
+    <td>        
+        3.
+    </td>
+    <td>
+         Think Stats book by Alan Downey   
+    </td>
+    <td>
+    Good book for reference    
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/playlist?list=PLKhIyg7HglikW9E83pxIv2VFZVa-DxlKB'>Playlist</a>
+    </td>
+</tr>
+</table>
