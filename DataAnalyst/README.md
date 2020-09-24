@@ -36,6 +36,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </table>
 
 ### 2.Python and Data Structures
+<table>
 <tr>
     <td>        
         1.
@@ -49,6 +50,8 @@ These are the courses to follow if you want to become a Data Analyst.
     <td>
         <a href = 'https://www.udemy.com/course/complete-python-bootcamp/'>Course</a>
     </td>
+</tr>
+<tr>
     <td>        
         2.
     </td>
