@@ -67,7 +67,25 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 3.Statistics
+### 3.SQL(Structured Query Language)
+<table>
+<tr>
+    <td>        
+        1.
+    </td>
+    <td>
+    SQL Course with real world projects    
+    </td>
+    <td>
+        Course that covers SQL with high quality projects!
+    </td>
+    <td>
+        <a href = 'https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/'>Course</a>
+    </td>
+</tr>
+</table>
+
+### 4.Statistics
 <table>
 <tr>
     <td>        
@@ -113,7 +131,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 4. Numpy and Pandas for Data Wrangling operations
+### 5. Numpy and Pandas for Data Wrangling operations
 <table>
 <tr>
     <td>        
@@ -146,7 +164,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </tr>
 </table>
 
-### 5. Microsoft Excel
+### 6. Microsoft Excel
 <table>
 <tr>
     <td>        
@@ -180,7 +198,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </table>
 
 
-### 6. Matplotlib for Data Visualization
+### 7. Matplotlib for Data Visualization
 <table>
 <tr>
     <td>        
@@ -199,7 +217,7 @@ These are the courses to follow if you want to become a Data Analyst.
 </table>
 
 
-### 7. Applying All the things in a project!
+### 8. Applying All the things in a project!
 <table>
 <tr>
     <td>        
