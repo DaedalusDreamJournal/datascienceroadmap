@@ -178,3 +178,38 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
 </tr>
 </table>
+
+
+### 6. Matplotlib for Data Visualization
+<table>
+<tr>
+    <td>        
+        1.
+    </td>
+    <td>
+        Matplotlib tutorial
+    </td>
+    <td>
+     Complete Matplotlib Playlist  
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_'>Playlist</a>
+    </td>
+</tr>
+
+### 7. Applying All the things in a project!
+<tr>
+    <td>        
+        1.
+    </td>
+    <td>
+        Uber Data Analysis
+    </td>
+    <td>
+            Analysis of 2014 Uber Data with Pandas and Matplotlib
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/watch?v=Q73ADVZCqSU'>Video</a>
+    </td>
+</tr>
+</table>
