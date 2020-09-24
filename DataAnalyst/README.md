@@ -108,7 +108,40 @@ These are the courses to follow if you want to become a Data Analyst.
     Good book for reference    
     </td>
     <td>
-        <a href = 'https://www.youtube.com/playlist?list=PLKhIyg7HglikW9E83pxIv2VFZVa-DxlKB'>Playlist</a>
+        <a href = '#'>Book Link</a>
+    </td>
+</tr>
+</table>
+
+### 4. Numpy and Pandas for Data Wrangling operations
+<table>
+<tr>
+    <td>        
+        1.
+    </td>
+    <td>
+    Numpy for Data Analysis    
+    </td>
+    <td>
+    Amazing Video covering most of the concepts of Numpy    
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/watch?v=ZB7BZMhfPgk'>Video</a>
+    </td>
+</tr>
+
+<tr>
+    <td>        
+        2.
+    </td>
+    <td>
+    Pandas for Data Analysis   
+    </td>
+    <td>
+    This playlist coder the concepts of Pandas in great detail
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS'>Playlist</a>
     </td>
 </tr>
 </table>
