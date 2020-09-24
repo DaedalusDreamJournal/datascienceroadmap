@@ -8,6 +8,7 @@ These are the courses to follow if you want to become a Data Analyst.
 <tr>
     <td>
         **Index No**
+        <b>Index No</b>
     </td>
     <td>
         <b>Course Name</b>
