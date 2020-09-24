@@ -22,5 +22,8 @@ To get started as a contributor or learner [Click Here](https://github.com/Daeda
   |---podcasts.md
   |---useful-links-for-machine-learning-66daysofdata.ipynb
   |---data_engineering/
-  |       |--data_eng_roadmap.md
+  |       |--README.md #readme file with data engineering roadmap
+  |
+  |---DataAnalyst/
+  |       |--README.md #readme file with Analyst roadmap/resources
 ```
