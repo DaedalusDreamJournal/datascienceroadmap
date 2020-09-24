@@ -196,8 +196,11 @@ These are the courses to follow if you want to become a Data Analyst.
         <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_'>Playlist</a>
     </td>
 </tr>
+</table>
+
 
 ### 7. Applying All the things in a project!
+<table>
 <tr>
     <td>        
         1.
