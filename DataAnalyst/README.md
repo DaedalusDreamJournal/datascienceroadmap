@@ -145,3 +145,36 @@ These are the courses to follow if you want to become a Data Analyst.
     </td>
 </tr>
 </table>
+
+### 5. Microsoft Excel
+<table>
+<tr>
+    <td>        
+        1.
+    </td>
+    <td>
+        Excel tutorial for beginners
+    </td>
+    <td>
+     Video covering all concepts of Excel(don't get disheartened by the length of the video!!)  
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/watch?v=27dxBp0EgCc'>Video</a>
+    </td>
+</tr>
+
+<tr>
+    <td>        
+        2.
+    </td>
+    <td>
+        Excel Mini Projects
+    </td>
+    <td>
+    This playlist covers amazing small projects in Excel(there is no need of covering everything)
+    </td>
+    <td>
+        <a href = 'https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS'>Playlist</a>
+    </td>
+</tr>
+</table>
