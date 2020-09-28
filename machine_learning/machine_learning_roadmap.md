@@ -9,7 +9,7 @@
   </tr>
 
   <tr>
-    <td>2.</td>
+    <td>1.</td>
     <td>9 Key Machine Learning Algorithms Explained in Plain English>Link to the Course</a></td>
     <td>https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/</td>
     <td>A very useful intro to 9 of the most used machine learning algorithms used. Even better, it is light on pure maths, and more heavy on the explaining concepts side ... and using normal and plain english to boot! IMPORTANT! -> Be sure to check the rest of the site as you'll probably find a ton of other useful stuff there!</td>
