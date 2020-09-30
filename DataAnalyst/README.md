@@ -238,8 +238,9 @@ These are the courses to follow if you want to become a Data Analyst.
 ### 9.Added Tableau Learning Resources
 <table>
 <tr>
+    <td>1.</td>
     <td>        
-        1.Tableau Playlist
+        Tableau Playlist
     </td>
     <td>
         <a href = 'https://www.youtube.com/playlist?list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK'>Video</a>
