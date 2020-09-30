@@ -25,6 +25,7 @@ To get started as a contributor or learner [Click Here](https://github.com/Daeda
   |       |--README.md #readme file with data engineering roadmap
   |---Beginner_ML_projects.md
   |---Intermidiate_ML_Projects.md
+  |---Advanced_ML_Projects.md
   |---DataAnalyst/
   |       |--README.md #readme file with Analyst roadmap/resources
 ```
