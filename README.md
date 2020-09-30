@@ -1,4 +1,4 @@
-# #66daysofdata
+# DataScienceRoadmap
 
 ## Objective
 
@@ -23,7 +23,7 @@ To get started as a contributor or learner [Click Here](https://github.com/Daeda
   |---useful-links-for-machine-learning-66daysofdata.ipynb
   |---data_engineering/
   |       |--README.md #readme file with data engineering roadmap
-  |
+  |---Beginner_ML_projects.md
   |---DataAnalyst/
   |       |--README.md #readme file with Analyst roadmap/resources
 ```
