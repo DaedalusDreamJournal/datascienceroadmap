@@ -53,7 +53,16 @@ For instance, write the following on your bash/terminal or cmd line:
 ```bat
 $ git remote add upstream https://github.com/DaedalusDreamJournal/datascienceroadmap.git
 ```
-
+In case you get this error :
+```bat
+! [rejected]        master -> master (non-fast forward)
+error: failed to push some refs to 'git@github.com:companyX/projectX.git'
+``` 
+Write this in your bash/terminal or cmd line:
+```bat
+git pull
+```
+This is an error which occurs when the code on the forked repo is out of sync with the **forked master repository**
 ## 6. Make changes
 
 On your local computer with the text editor of your choice open the directory and add the necessary changes. You are going to need to use the git commands:
